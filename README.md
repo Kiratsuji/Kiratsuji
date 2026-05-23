@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @Kiratsuji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+# 👋 Olá, eu sou Isaac
 
-<!---
-Kiratsuji/Kiratsuji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desenvolvedor focado em jogos, mods e aplicações usando Unity e C#.  
+Gosto de criar sistemas multiplayer, mecânicas imersivas e projetos com identidade própria.
+
+---
+
+## 🚧 Atualmente trabalhando em
+
+- Mods de Minecraft
+- Ferramentas e aplicações desktop
+- Websites
+
+---
+
+## 🛠️ Ferramentas que uso
+
+- Unity
+- C#
+- Java
+- Git & GitHub
+- Visual Studio / IntellijIDEA
+
+---
+
+## 📫 Contato
+
+- Discord: `kiratsuji`
