@@ -76,7 +76,7 @@ public class Isaac {
 
 Mod de RPG para Minecraft com sistema de classes, árvores de habilidades, animações customizadas via AzureLib e questlines narrativas. Progressão baseada em **Legacy**, gadgets, e um sistema de Trial para desbloquear a classe Vigilant.
 
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github)](https://github.com/kiratsuji/shattered-heroes)
+[![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=flat-square&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/shattered-heroes)
 
 </td>
 <td width="50%">
@@ -92,14 +92,6 @@ Meu portfólio pessoal e primeiro projeto real com o ecossistema moderno de fron
 </td>
 </tr>
 </table>
-
----
-
-### `// o que estou aprendendo agora`
-
-- ⚛️ Ecossistema React — componentes, hooks, roteamento e deploy
-- 🎮 AzureLib 3.x — animações e rendering customizados para entidades Minecraft
-- 🏗️ Arquitetura de sistemas — separação de responsabilidades em projetos grandes
 
 ---
 
