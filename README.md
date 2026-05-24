@@ -70,7 +70,7 @@ public class Isaac {
 <tr>
 <td width="50%">
 
-**⚔️ Shattered Heroes**
+**Shattered Heroes**
 `Minecraft Forge · Java · AzureLib`
 
 Mod de RPG para Minecraft com sistema de classes, árvores de habilidades, animações customizadas via AzureLib e questlines narrativas. Progressão baseada em **Legacy**, gadgets, e um sistema de Trial para desbloquear a classe Vigilant.
@@ -80,7 +80,7 @@ Mod de RPG para Minecraft com sistema de classes, árvores de habilidades, anima
 </td>
 <td width="50%">
 
-**🌐 Portfólio**
+**Portfólio**
 `React · Vite · Tailwind CSS`
 
 Meu portfólio pessoal e primeiro projeto real com o ecossistema moderno de frontend. Aprendo React, Vite e ferramentas novas enquanto construo algo que uso de verdade. Futuramente também será a wiki oficial do Shattered Heroes.
